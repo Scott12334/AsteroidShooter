@@ -5,4 +5,4 @@ It was a lot of work but convinced me that I should take the time to learn how t
 There are two games, regular and VR. At the time of creation I was trying to make a VR headset and this was going to be the first game for it. 
 The only difference is that the VR will spawn two windows. 
 
-**To play download the zip folder and extra and run the .exe**
+**To play download the zip folder and extra and run the .exe (Windows Only)**
